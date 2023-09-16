@@ -2,31 +2,30 @@
 
 <h2>Mircosoft Azure Virtual Machine Install<h2>
 <h2>Description</h2>
-In this project I will demonstrae how to Install a Virtual Machine in Microsoft Azure and connect to it.
+In this project I will demonstrae how to Install a Virtual Machine in Microsoft Azure and connect to it using Mac OS.
 
 <br />
 
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>Microsoft</b> 
-- <b>Virtual Machine</b>
-- <b>Container</b>
-- <b>Resoucse Group</b>
+- <b>Remote Desktop - An application used to connect to the virtual machine
+- <b>Virtual Machine - an online computer that anyone can connect to</b>
+- <b>Resource Group - holds the resources for the Azure</b>
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Windows 11</b> 
 <h2>Program walk-through:</h2>
 <p align="center">
 Launch Microsoft Azure: <br/>
-<img width="1437" alt="image" src="https://github.com/JamalM96/Jamal/assets/144721729/c072c574-0051-48db-bf6f-54834d71e069"> "Go to portal.azure.com and sign in or create an account"
+<img width="1437" alt="image" src="https://github.com/JamalM96/Jamal/assets/144721729/c072c574-0051-48db-bf6f-54834d71e069"> Go to portal.azure.com and sign in or create an account
 <br />
 <br />
 Search Resource Groups in the search bar then click Create Resource group:  <br/>
  <img width="1433" alt="image" src="https://github.com/JamalM96/Jamal/assets/144721729/ad179315-d979-4d0a-82e4-cd5125e4c105">
 <br />
 <br />
-Choose which supscription you want to use, name your resource group, choose which region you want your resource group: <br/>
+Choose which subscription you want to use, name your resource group, choose which region you want your resource group: <br/>
 <img width="1435" alt="image" src="https://github.com/JamalM96/Jamal/assets/144721729/68d67c43-0934-4399-bbaf-f5e4948e42dd">
 <br />
 <br />
@@ -38,11 +37,11 @@ Search for Virtual Machines in the search bar and then click create:  <br/>
 <img width="1437" alt="image" src="https://github.com/JamalM96/Jamal/assets/144721729/d0a4b896-2ea5-4d5c-98f2-dd0d873180a3">
 <br />
 <br />
-Select your resoucre group and then configure the VM:  <br/>
+Select your resource group and then configure the VM:  <br/>
 <img width="1435" alt="image" src="https://github.com/JamalM96/Jamal/assets/144721729/5df7d541-5b6b-40ca-8a84-7c5cdf41a7ef">
 <br />
 <br />
-After done configuing click create:  <br/>
+After done configuring click create:  <br/>
 <img width="1438" alt="image" src="https://github.com/JamalM96/Jamal/assets/144721729/2e58e591-e7fc-4327-ac07-8d40e1a0a2ff">
 <br />
 <br />
